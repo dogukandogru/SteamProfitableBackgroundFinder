@@ -199,7 +199,7 @@ backgroundSheet.write(0,2,"Price")
 backgroundSheet.write(0,3,"Average Sale Price")
 backgroundSheet.write(0,4,"Chance")
 backgroundSheet.write(0,5,"Score")
-backgroundSheet.write(0,6,"Link")
+backgroundSheet.write(0,6,"Quantity")
 backgroundSheet.write(0,7,"Link")
 
 sayi = 1
